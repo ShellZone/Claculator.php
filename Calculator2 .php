@@ -16,7 +16,7 @@ Operator: <input type="textbox" name="Operator"> <br><br>
 
 Number 2 <input type="number" name="num2"> <br> <br>
 
-
+Submit <input type="submit">
 
 
 
@@ -44,6 +44,8 @@ function calc($num1,$num2){
     }
 
 }
+
+// if statements are good to narrow down options
 
 ?>
 
