@@ -10,11 +10,11 @@
 
 <form action="Calculator2.php" method="post">
 
-Number 1 <input type="number" name="num1"> <br> <br>
+Number 1 <input type="number" step="0.001" name="num1"> <br> <br>
 
 Operator: <input type="textbox" name="Operator"> <br><br>
 
-Number 2 <input type="number" name="num2"> <br> <br>
+Number 2 <input type="number" step="0.001" name="num2"> <br> <br>
 
 Submit <input type="submit">
 
