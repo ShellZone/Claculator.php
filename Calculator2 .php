@@ -8,7 +8,7 @@
 <body>
 
 
-<form action="Calculator.php" method="post">
+<form action="Calculator2.php" method="post">
 
 Number 1 <input type="number" name="num1"> <br> <br>
 
@@ -26,7 +26,7 @@ Submit <input type="submit">
 
 //function sdsdsds ($f){}
 
-function calc($num1,$num2){
+
     $num1 = $_POST["num1"];
     $num2 = $_POST["num2"];
     $op = $_POST["Operator"];
@@ -43,7 +43,8 @@ function calc($num1,$num2){
         echo "invalid";
     }
 
-}
+
+
 
 // if statements are good to narrow down options
 
