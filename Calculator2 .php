@@ -45,8 +45,6 @@ function calc($num1,$num2){
 
 }
 
-// if statements are good to narrow down options
-
 ?>
 
 
